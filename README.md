@@ -10,6 +10,11 @@ Section 2: Big O Notation
 3. As for space complexity, for primitive data types (numbers, undefined, null, booleans) it is constant, for strings, it is O(n) based on the string length n. For reference types like array with length n of array or n no: of keys in an object, it is O(n).
 4. Logarithm: It is the power or exponent that must be raised(3) to the base(2) to yeild a given number(8). 2 raised to 3 is 8. log of a number is the number of times you can divide the number by 2 until it is less than or equal to 1. log(8) would be 3. (8/2 is 4, then 4/2 is 2, then 2/2 is 1 which is 3 times.) Time complexity of logarithm(O(log n)) is great, just like constants.
 
-Section 3: Analyzing performance of arrays and obects
+Section 3: Analyzing performance of arrays and obects (Not Imp)
 =====================================================
-1. if
+1. In terms of BigO, if the data representation does not require order and need quick insertion and removal, objects are great choice. BigO object methods -> Obj.keys() - O(n), Obj.values() - O(n), Obj.entries() - O(n), Obj.hasOwnproperty - O(1)
+2. As for arrays, they are for ordered lists. Adding/Removal of elements is constant in terms of BigO if at the end(push, pop) while for shift/unshift it would n times for bigO(O(n)) since index of all elements would be changed. searching elements is constant since all elements are indexed by their position.
+
+Section 4: Problem Solving Approach.
+====================================
+1. Understand the problem, explore examples(use inputs of diff cases and print outputs), break down(not you, the problem), solve/simply, look back & refactor.
