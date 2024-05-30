@@ -17,4 +17,8 @@ Section 3: Analyzing performance of arrays and obects (Not Imp)
 
 Section 4: Problem Solving Approach.
 ====================================
-1. Understand the problem, explore examples(use inputs of diff cases and print outputs), break down(not you, the problem), solve/simply, look back & refactor.
+1. Understand the problem, explore examples(use inputs of diff cases and print outputs), break it down, solve/simply, look back & refactor.
+
+Section 5: Problem Solving Patterns.
+====================================
+1. Frequency counter problems, mulitpointer problems, sliding window pattern, divide and conquer.
