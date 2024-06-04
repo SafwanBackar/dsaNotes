@@ -22,3 +22,7 @@ Section 4: Problem Solving Approach.
 Section 5: Problem Solving Patterns.
 ====================================
 1. Frequency counter problems, mulitpointer problems, sliding window pattern, divide and conquer.
+
+Section 11: Bubble Sort.
+=======================
+1. In this sort, largest element is bubbled to the top by comparing element by element and swaps them from one side to other.
