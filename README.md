@@ -26,3 +26,7 @@ Section 5: Problem Solving Patterns.
 Section 11: Bubble Sort.
 =======================
 1. In this sort, largest element is bubbled to the top by comparing element by element and swaps them from one side to other. Big O complexity is n2 but if the list is nearly sorted, it would be n and that is the best case use. But in general, a slow method.
+
+Section 12: Selection Sort.
+========================
+1. Similar to bubble sort. Elements Iterates till end and swaps with the smallest value. 
