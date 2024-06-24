@@ -43,3 +43,6 @@ Section 15: Merge Sort
 ======================
  1. A divide-and-conquer algorithm that sorts an array by first breaking it down into smaller arrays of length 1, and then sorting the array back together the correct way so that it is sorted.
  2. Time complexity is n log n and space complexity of n
+
+======================
+Quick Sort | Radix Sort
