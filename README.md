@@ -30,6 +30,7 @@ Section 11: Bubble Sort.
 Section 12: Selection Sort.
 ========================
 1. Similar to bubble sort. Elements Iterates till end and swaps with the smallest value.
+
 Section 13: Insertion Sort.
 ==========================
 1. Starting from the 2nd element, it is inserted into the correct index where it should be and repeat until sorted. A reveresed array would be worse case for this method. Nearly sorted array would be fine.
