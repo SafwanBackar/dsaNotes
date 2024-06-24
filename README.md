@@ -37,3 +37,8 @@ Section 13: Insertion Sort.
 Section 14: Comparing
 =====================
 1. All 3 are nearly identical but insertion and selection is slightly better in terms of time complexity compared to selection. Space complexity is same. Though they are slower, works faster in small data sets. Worst case of time complexity is n2 for all.
+
+Section 15: Merge Sort
+======================
+ 1. A divide-and-conquer algorithm that sorts an array by first breaking it down into smaller arrays of length 1, and then sorting the array back together the correct way so that it is sorted.
+ 2. Time complexity is n log n and space complexity of n
