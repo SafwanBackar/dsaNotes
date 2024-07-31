@@ -46,4 +46,13 @@ Section 15: Merge Sort
 
 Section 16, 17: Quick Sort | Radix Sort
 ======================
-
+Section 22, 23: Trees | Tree Traverse
+======================
+1. Trees are non-linear data structures with root and child nodes
+2. Binary trees at most have 2 nodes.
+3. Binary search tree has structure where the node to left is less to the parent while node to right is greater.
+Section 24: Heaps
+======================
+1. A heap is a binary tree-based data structure that satisfies the heap property: the value of each node is greater than or equal to the value of its children. This property makes sure that the root node contains the maximum or minimum value (depending on the type of heap), and the values decrease or increase as you move down the tree.
+2. For Max Heap, the root node contains the maximum value, and the values decrease as you move down the tree. For Min Heap, the root node contains the minimum value, and the values increase as you move down the tree.
+3. Heaps are usually used to implement priority queues(serving elements in the queue of data structure based on their priority), where the smallest (or largest) element is always at the root of the tree.
